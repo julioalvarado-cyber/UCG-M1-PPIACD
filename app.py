@@ -11,4 +11,4 @@ capital=st.number_input("Ingrese el capital")
 taza_anual_pct=st.number_input("Ingrese el taza")
 dias_mora=st.number_input("Ingrese los dias de mora")
 
-resultado = lf.calcular_interes_mora()
+#resultado = lf.calcular_interes_mora()
