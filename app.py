@@ -4,6 +4,7 @@ import libreria_funciones as lf
 st.title("Maestría en Ciencias de Datos - Universidad Casa Grande")
 st.image("LogoUCG.jpeg")
 
+st.sidebar.image("LogoUCG.jpeg")
 st.sidebar.title("Paradigmas de programación para IA & CD")
 st.write("Elaborado por: Julio Alvarado")
 
