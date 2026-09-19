@@ -1,3 +1,4 @@
 import streamlit as st
 
 st.title("Maestría en Ciencias de Datos - Universidad Casa Grande")
+st.sidebar.title("Paradigmas de programación para IA & CD")
